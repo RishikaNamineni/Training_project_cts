@@ -1,0 +1,6 @@
+projectKey=mailorderpharmacy
+serverUrl=http://localhost:9000
+serverVersion=8.6.1.40680
+dashboardUrl=http://localhost:9000/dashboard?id=mailorderpharmacy
+ceTaskId=AXkhgzaY5QysdcwCpeTT
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXkhgzaY5QysdcwCpeTT
